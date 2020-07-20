@@ -1,0 +1,10 @@
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\bin\Debug\Test_stand.exe.config
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\bin\Debug\Test_stand.exe
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\bin\Debug\Test_stand.pdb
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.csprojAssemblyReference.cache
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.Form1.resources
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.Properties.Resources.resources
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.csproj.GenerateResource.cache
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.csproj.CoreCompileInputs.cache
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.exe
+D:\OneDrive - Georgia Institute of Technology\GaTech\2020  Spring\ECE 4180\Test_stand\obj\Debug\Test_stand.pdb
